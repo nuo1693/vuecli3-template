@@ -1,0 +1,328 @@
+[
+  {
+      "goodsSpeResponses": [
+          {
+              "goodsSpeId": 4282,
+              "goodsId": 4580,
+              "price": 2760,
+              "picUrl": null,
+              "attrValueList": [
+                  {
+                      "id": 7825,
+                      "attrKey": "规格",
+                      "attrValue": "单人位：780*880*910mm"
+                  },
+                  {
+                      "id": 7824,
+                      "attrKey": "材质",
+                      "attrValue": "橡胶木"
+                  },
+                  {
+                      "id": 7822,
+                      "attrKey": "颜色",
+                      "attrValue": "原木色"
+                  }
+              ]
+          },
+          {
+              "goodsSpeId": 4284,
+              "goodsId": 4580,
+              "price": 3920,
+              "picUrl": null,
+              "attrValueList": [
+                  {
+                      "id": 7826,
+                      "attrKey": "规格",
+                      "attrValue": "双人位：1460*880*910mm"
+                  },
+                  {
+                      "id": 7824,
+                      "attrKey": "材质",
+                      "attrValue": "橡胶木"
+                  },
+                  {
+                      "id": 7822,
+                      "attrKey": "颜色",
+                      "attrValue": "原木色"
+                  }
+              ]
+          },
+          {
+              "goodsSpeId": 4280,
+              "goodsId": 4580,
+              "price": 999,
+              "picUrl": null,
+              "attrValueList": [
+                  {
+                      "id": 7826,
+                      "attrKey": "规格",
+                      "attrValue": "双人位：1460*880*910mm"
+                  },
+                  {
+                      "id": 7824,
+                      "attrKey": "材质",
+                      "attrValue": "橡胶木"
+                  },
+                  {
+                      "id": 7800,
+                      "attrKey": "颜色",
+                      "attrValue": "原木花纹色"
+                  }
+              ]
+          },
+          {
+              "goodsSpeId": 4285,
+              "goodsId": 4580,
+              "price": 3920,
+              "picUrl": "goodsSpe/pic/7_1554176818703_16784.jpg",
+              "attrValueList": [
+                  {
+                      "id": 7826,
+                      "attrKey": "规格",
+                      "attrValue": "双人位：1460*880*910mm"
+                  },
+                  {
+                      "id": 7824,
+                      "attrKey": "材质",
+                      "attrValue": "橡胶木"
+                  },
+                  {
+                      "id": 7823,
+                      "attrKey": "颜色",
+                      "attrValue": "胡桃色"
+                  }
+              ]
+          },
+          {
+              "goodsSpeId": 4286,
+              "goodsId": 4580,
+              "price": 4590,
+              "picUrl": null,
+              "attrValueList": [
+                  {
+                      "id": 7827,
+                      "attrKey": "规格",
+                      "attrValue": "三人位：2050*880*910mm"
+                  },
+                  {
+                      "id": 7824,
+                      "attrKey": "材质",
+                      "attrValue": "橡胶木"
+                  },
+                  {
+                      "id": 7822,
+                      "attrKey": "颜色",
+                      "attrValue": "原木色"
+                  }
+              ]
+          },
+          {
+              "goodsSpeId": 4287,
+              "goodsId": 4580,
+              "price": 4590,
+              "picUrl": "goodsSpe/pic/7_1554176846393_16785.jpg",
+              "attrValueList": [
+                  {
+                      "id": 7827,
+                      "attrKey": "规格",
+                      "attrValue": "三人位：2050*880*910mm"
+                  },
+                  {
+                      "id": 7824,
+                      "attrKey": "材质",
+                      "attrValue": "橡胶木"
+                  },
+                  {
+                      "id": 7823,
+                      "attrKey": "颜色",
+                      "attrValue": "胡桃色"
+                  }
+              ]
+          },
+          {
+              "goodsSpeId": 4288,
+              "goodsId": 4580,
+              "price": 5634,
+              "picUrl": null,
+              "attrValueList": [
+                  {
+                      "id": 7828,
+                      "attrKey": "规格",
+                      "attrValue": "四人位：2700*880*910mm"
+                  },
+                  {
+                      "id": 7824,
+                      "attrKey": "材质",
+                      "attrValue": "橡胶木"
+                  },
+                  {
+                      "id": 7822,
+                      "attrKey": "颜色",
+                      "attrValue": "原木色"
+                  }
+              ]
+          },
+          {
+              "goodsSpeId": 4289,
+              "goodsId": 4580,
+              "price": 5634,
+              "picUrl": null,
+              "attrValueList": [
+                  {
+                      "id": 7828,
+                      "attrKey": "规格",
+                      "attrValue": "四人位：2700*880*910mm"
+                  },
+                  {
+                      "id": 7824,
+                      "attrKey": "材质",
+                      "attrValue": "橡胶木"
+                  },
+                  {
+                      "id": 7823,
+                      "attrKey": "颜色",
+                      "attrValue": "胡桃色"
+                  }
+              ]
+          },
+          {
+              "goodsSpeId": 4290,
+              "goodsId": 4580,
+              "price": 2140,
+              "picUrl": null,
+              "attrValueList": [
+                  {
+                      "id": 7829,
+                      "attrKey": "规格",
+                      "attrValue": "脚踏：800*800*390"
+                  },
+                  {
+                      "id": 7824,
+                      "attrKey": "材质",
+                      "attrValue": "橡胶木"
+                  },
+                  {
+                      "id": 7822,
+                      "attrKey": "颜色",
+                      "attrValue": "原木色"
+                  }
+              ]
+          },
+          {
+              "goodsSpeId": 4291,
+              "goodsId": 4580,
+              "price": 2140,
+              "picUrl": null,
+              "attrValueList": [
+                  {
+                      "id": 7829,
+                      "attrKey": "规格",
+                      "attrValue": "脚踏：800*800*390"
+                  },
+                  {
+                      "id": 7824,
+                      "attrKey": "材质",
+                      "attrValue": "橡胶木"
+                  },
+                  {
+                      "id": 7823,
+                      "attrKey": "颜色",
+                      "attrValue": "胡桃色"
+                  }
+              ]
+          },
+          {
+              "goodsSpeId": 4292,
+              "goodsId": 4580,
+              "price": 7199,
+              "picUrl": null,
+              "attrValueList": [
+                  {
+                      "id": 7830,
+                      "attrKey": "规格",
+                      "attrValue": "单人位+双人位+三人位"
+                  },
+                  {
+                      "id": 7824,
+                      "attrKey": "材质",
+                      "attrValue": "橡胶木"
+                  },
+                  {
+                      "id": 7822,
+                      "attrKey": "颜色",
+                      "attrValue": "原木色"
+                  }
+              ]
+          },
+          {
+              "goodsSpeId": 4293,
+              "goodsId": 4580,
+              "price": 7199,
+              "picUrl": null,
+              "attrValueList": [
+                  {
+                      "id": 7830,
+                      "attrKey": "规格",
+                      "attrValue": "单人位+双人位+三人位"
+                  },
+                  {
+                      "id": 7824,
+                      "attrKey": "材质",
+                      "attrValue": "橡胶木"
+                  },
+                  {
+                      "id": 7823,
+                      "attrKey": "颜色",
+                      "attrValue": "胡桃色"
+                  }
+              ]
+          },
+          {
+              "goodsSpeId": 4294,
+              "goodsId": 4580,
+              "price": 5399,
+              "picUrl": null,
+              "attrValueList": [
+                  {
+                      "id": 7831,
+                      "attrKey": "规格",
+                      "attrValue": "四人位+脚踏"
+                  },
+                  {
+                      "id": 7824,
+                      "attrKey": "材质",
+                      "attrValue": "橡胶木"
+                  },
+                  {
+                      "id": 7822,
+                      "attrKey": "颜色",
+                      "attrValue": "原木色"
+                  }
+              ]
+          },
+          {
+              "goodsSpeId": 4295,
+              "goodsId": 4580,
+              "price": 5399,
+              "picUrl": null,
+              "attrValueList": [
+                  {
+                      "id": 7831,
+                      "attrKey": "规格",
+                      "attrValue": "四人位+脚踏"
+                  },
+                  {
+                      "id": 7824,
+                      "attrKey": "材质",
+                      "attrValue": "橡胶木"
+                  },
+                  {
+                      "id": 7823,
+                      "attrKey": "颜色",
+                      "attrValue": "胡桃色"
+                  }
+              ]
+          }
+      ]
+  }
+]
